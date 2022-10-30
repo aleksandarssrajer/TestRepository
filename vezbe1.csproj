@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net4.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>vezbe1.Varijable</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="nasledjivanje\" />
+    <None Remove="klase\" />
+    <None Remove="interfejsi\" />
+    <None Remove="grananja i iteracije\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="nasledjivanje\" />
+    <Folder Include="klase\" />
+    <Folder Include="interfejsi\" />
+    <Folder Include="grananja i iteracije\" />
+  </ItemGroup>
+
+</Project>

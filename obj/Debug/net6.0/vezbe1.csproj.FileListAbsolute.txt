@@ -1,0 +1,15 @@
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/bin/Debug/net6.0/vezbe1
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/bin/Debug/net6.0/vezbe1.deps.json
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/bin/Debug/net6.0/vezbe1.runtimeconfig.json
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/bin/Debug/net6.0/vezbe1.dll
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/bin/Debug/net6.0/vezbe1.pdb
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/vezbe1.csproj.AssemblyReference.cache
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/vezbe1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/vezbe1.AssemblyInfoInputs.cache
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/vezbe1.AssemblyInfo.cs
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/vezbe1.csproj.CoreCompileInputs.cache
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/vezbe1.dll
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/refint/vezbe1.dll
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/vezbe1.pdb
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/vezbe1.genruntimeconfig.cache
+/Users/marijakovacevic/Desktop/posao/predmeti/OISISI/2022-23/vezbe/vezbe1/obj/Debug/net6.0/ref/vezbe1.dll
